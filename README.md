@@ -1,11 +1,11 @@
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/rahulshahx/rahulshahx/main/banner.gif" onerror="this.src='https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2000&auto=format&fit=crop';" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/rahulshahx/rahulshahx/main/banner.gif" onerror="this.src='https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2000&auto=format&fit=crop';this.onerror=null" alt="Banner" width="100%" style="border-radius: 10px;" />
 
 <div align="center">
 <h1>Hi there! 👋 I'm Rahul Shah</h1>
 <h3>🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🤖 AI & Robotics Learner</h3>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+CSE%2FIT+Student;Full-Stack+Web+Developer;Python+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+CSE%2FIT+Student;Full-Stack+Web+Developer;Python+%26+JavaScript+Developer" alt="Typing SVG" />
 </p>
 <p align="center">
 <a href="https://github.com/rahulshahx?tab=followers">
@@ -24,7 +24,7 @@
 
 Welcome to my digital playground! I am a passionate software developer and tech enthusiast currently navigating my 6th semester of my **B.Tech in Computer Science and Engineering (CSE/IT)** at Hooghly Engineering and Technology College.
 
-My journey in tech is driven by an insatiable curiosity to understand how things work under the hood. Whether it's writing a low-level algorithm in C, crafting a dynamic user interface with React, or architecting a robust backend with Node.js, I'm constantly pushing the boundaries of what I can create and learn.
+My journey in tech is driven by an insatiable curiosity to understand how things work under the hood. Whether it's writing a low-level algorithm in C, crafting a dynamic user interface with React, or architecting scalable backend systems, I'm always eager to tackle new challenges.
 
  * 🔭 **Currently Working On:** Architecting and refining **wing2rah**, a secure, full-stack, login-protected note-taking application designed for productivity.
  * 🌱 **Currently Learning:** Deep diving into **Machine Learning, AI models, and Robotics** to bridge the gap between software and the physical world.
@@ -110,7 +110,7 @@ A C/C++ and JS-based tool that visually demonstrates how sorting and pathfinding
 ## 🏆 GitHub Trophies
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=rahulshahx&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Rahul Shah's Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=rahulshahx&theme=nord&no-frame=false&margin-w=15&row=1" alt="GitHub Trophies" onerror="this.style.display='none'" />
 </a>
 </div>
 
@@ -120,22 +120,22 @@ I consistently try to push code and improve my craft. Here is a snapshot of my o
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulshahx&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulshahx&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshahx&layout=compact&theme=dracula&hide_border=true" alt="Rahul's Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshahx&layout=compact&theme=tokyonight&hide_border=false" alt="Rahul's Top Languages" />
 </a>
 </div>
 
 <div align="center">
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshahx&theme=dracula&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=rahulshahx&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </a>
 </div>
 
 ### 🐍 Contribution Graph
 <div align="center">
-<img src="https://raw.githubusercontent.com/rahulshahx/rahulshahx/output/github-contribution-grid-snake.svg" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/main/assets/github-contribution-grid-snake.svg';" alt="Contribution Graph" />
+<img src="https://github.com/rahulshahx/rahulshahx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎓 Education & Timeline
