@@ -119,11 +119,11 @@ A C/C++ and JS-based tool that visually demonstrates how sorting and pathfinding
 I consistently try to push code and improve my craft. Here is a snapshot of my open-source activity and contributions.
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulshahx&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats" />
+<a href="https://github-stats-extended.vercel.app/frontend">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=rahulshahx&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshahx&layout=compact&theme=tokyonight&hide_border=false" alt="Rahul's Top Languages" />
+<a href="https://github-stats-extended.vercel.app/frontend">
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rahulshahx&layout=compact&theme=tokyonight&hide_border=false" alt="Rahul's Top Languages" />
 </a>
 </div>
 
