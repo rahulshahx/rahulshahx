@@ -12,9 +12,7 @@ description: >-
 # ==============================================================================
 # 2. URL SETTINGS (Links ko sahi se kaam karne ke liye)
 # ==============================================================================
-# Agar aap custom domain use nahi kar rahe, toh apni github.io link daalein
-url: "https://rahulshahx.github.io/rahulshahx" 
-baseurl: ""
+# Agar aap custom domain use nahi kar rahe, toh apni github.io link 
 
 # ==============================================================================
 # 3. THEME SETTING
