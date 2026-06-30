@@ -18,7 +18,7 @@
 </a>
 </p>
 </div>
-## 👨‍💻 A Little About Me
+##👨‍💻A Little About Me
 
 Welcome to my digital playground! I am a passionate software developer and tech enthusiast currently navigating my 6th semester of my **B.Tech in Computer Science and Engineering (CSE/IT)** at Hooghly Engineering and Technology College.
 My journey in tech is driven by an insatiable curiosity to understand how things work under the hood. Whether it's writing a low-level algorithm in C, crafting a dynamic user interface with React, or exploring the fascinating world of Artificial Intelligence, I am always eager to push my boundaries.
