@@ -19,6 +19,7 @@
 </p>
 </div>
 ## 👨‍💻 A Little About Me
+
 Welcome to my digital playground! I am a passionate software developer and tech enthusiast currently navigating my 6th semester of my **B.Tech in Computer Science and Engineering (CSE/IT)** at Hooghly Engineering and Technology College.
 My journey in tech is driven by an insatiable curiosity to understand how things work under the hood. Whether it's writing a low-level algorithm in C, crafting a dynamic user interface with React, or exploring the fascinating world of Artificial Intelligence, I am always eager to push my boundaries.
  * 🔭 **Currently Working On:** Architecting and refining **wing2rah**, a secure, full-stack, login-protected note-taking application designed for productivity.
@@ -27,8 +28,10 @@ My journey in tech is driven by an insatiable curiosity to understand how things
  * 💬 **Ask Me About:** Python scripts, JavaScript nuances, Backend logic, and UI/UX best practices.
  * ⚡ **Fun Fact:** When I'm not debugging code, you can find me writing complex mathematical equations using LaTeX or exploring new tech stacks just for the thrill of it.
 ## 🛠️ Arsenal & Tech Stack
+
 I believe in using the right tool for the right job. Here is a comprehensive look at the technologies I use daily to bring ideas to life.
 ### 💻 Languages
+
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" title="C" />
@@ -36,6 +39,7 @@ I believe in using the right tool for the right job. Here is a comprehensive loo
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
 </p>
 ### 🎨 Frontend & Design
+
 <p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
