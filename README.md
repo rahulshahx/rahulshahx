@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/rahulshahx/rahulshahx/main/banner.gif" onerror="this.src='https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2000&auto=format&fit=crop';this.onerror=null" alt="Banner" width="100%" style="border-radius: 10px;" />
+<img src="rahul.png" alt="Banner" width="100%" style="border-radius: 10px;" />
 
 <div align="center">
 <h1>Hi there! 👋 I'm Rahul Shah</h1>
